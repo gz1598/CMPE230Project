@@ -8,5 +8,6 @@
 	<classpathentry kind="lib" path="C:/Users/RaiNL/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
 	<classpathentry kind="lib" path="C:/Users/RaiNL/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
 	<classpathentry kind="lib" path="C:/Users/RaiNL/Downloads/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RaiNL/Downloads/jBCrypt-0.4/jBCrypt-0.4/src/org/mindrot/jbcrypt"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
